@@ -16,4 +16,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=anaconda,docker,git,github,vscode,visualstudio,linux,arduino,discord,matlab,raspberrypi,unity /> <br /><br />
+<img src="https://skillicons.dev/icons?i=anaconda,docker,git,github,vscode,visualstudio,linux,arduino,discord,matlab,raspberrypi,unity" /> <br /><br />
