@@ -4,20 +4,16 @@
 
 2. My favorites are C/C++,unity
 
-3. You can find my Tech Blog at []()
+//3. You can find my Tech Blog at []()
 
-4. You can find my Zenn Blog [here]()
+//4. You can find my Zenn Blog [here]()
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=blender,html,css,arduino" /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=blender,html,c,css,cpp,py" /> <br /><br />
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=anaconda,docker,git,github,vscode,visualstudio,linux,arduino,discord,matlab,raspberrypi,unity /> <br /><br />
