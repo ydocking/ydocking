@@ -6,7 +6,9 @@
 
 //3. You can find my Tech Blog at []()
 
-//4. You can find my Zenn Blog [here]()
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydocking&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ydocking&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ydocking&show_icons=true&locale=en&layout=compact)
 
